@@ -1,0 +1,26 @@
+Hi,
+
+I want to be able to TAB between:
+
+Headline:
+Tag field 1:
+Tag field 2:
+Tag field 3:
+Tag field 4:
+Editor area
+
+The job is to make it:
+
+  1) possible to use keyboard TAB-key to navigate to next field.
+
+  2) Skipping the editor icons so TAB-key from Tag field 4 takes me to Editor area
+
+
+
+--
+
+Best Regards
+
+Knassar
+Jon Nysted
+jon@knassar.com
