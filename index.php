@@ -141,5 +141,6 @@ $(function() {
 <div style="clear: both; padding: 4px;"></div>
 <input type="submit" name="submit" value="Save" />
 </form>
+<script src="tab-keys.js"></script>
 </body>
 </html>
