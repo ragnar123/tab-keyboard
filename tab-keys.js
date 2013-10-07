@@ -36,7 +36,7 @@
 
     function focus($node) {
         if ($node.hasClass('tagedit-listelement')) {
-            $node.find('#tagedit-input')
+            $node = $node.find('#tagedit-input')
                 .removeAttr('disabled')
                 .removeClass('tagedit-input-disabled');
         }
