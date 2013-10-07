@@ -3,16 +3,16 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Jquery and TagEdit</title>
-<link href="/jHtmlArea/jHtmlArea.css" type="text/css" rel="stylesheet" />
-<link href="/jHtmlArea/jHtmlArea.ColorPickerMenu.css" type="text/css" rel="stylesheet" />
-<link rel="stylesheet" href="/ui/smoothness/jquery-ui-1.8rc3.custom.css" type="text/css" media="all" />
+<link href="jHtmlArea/jHtmlArea.css" type="text/css" rel="stylesheet" />
+<link href="jHtmlArea/jHtmlArea.ColorPickerMenu.css" type="text/css" rel="stylesheet" />
+<link rel="stylesheet" href="ui/smoothness/jquery-ui-1.8rc3.custom.css" type="text/css" media="all" />
 <link rel="stylesheet" href="http://e02e3c2e19a06eec1e84-9a0707245afee0d6f567aa2987845a0f.r67.cf1.rackcdn.com/design/1375927389_jquery-ui-1.8.6.custom.css" type="text/css" media="all" />
 <link rel="stylesheet" href="http://e02e3c2e19a06eec1e84-9a0707245afee0d6f567aa2987845a0f.r67.cf1.rackcdn.com/design/1375931058_jquery.tagedit.css" type="text/css" media="all" />
 <script type="text/javascript" src="http://e02e3c2e19a06eec1e84-9a0707245afee0d6f567aa2987845a0f.r67.cf1.rackcdn.com/design/1375927735_jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="/jHtmlArea/jHtmlArea-0.7.0.js"></script>
-<script type="text/javascript" src="/jHtmlArea/jHtmlArea.ColorPickerMenu-0.7.0.js"></script>
-<script type="text/javascript" src="/js/jquery.htmlClean.js"></script>
-<script type="text/javascript" src="/js/jquery-ui-1.8rc3.custom.min.js"></script>
+<script type="text/javascript" src="jHtmlArea/jHtmlArea-0.7.0.js"></script>
+<script type="text/javascript" src="jHtmlArea/jHtmlArea.ColorPickerMenu-0.7.0.js"></script>
+<script type="text/javascript" src="js/jquery.htmlClean.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8rc3.custom.min.js"></script>
 <script type="text/javascript" src="http://e02e3c2e19a06eec1e84-9a0707245afee0d6f567aa2987845a0f.r67.cf1.rackcdn.com/design/1375927686_jquery-ui-1.8.6.custom.min.js"></script>
 <script type="text/javascript" src="http://e02e3c2e19a06eec1e84-9a0707245afee0d6f567aa2987845a0f.r67.cf1.rackcdn.com/design/1375927605_jquery.autogrowinput.js"></script>
 <script type="text/javascript" src="http://e02e3c2e19a06eec1e84-9a0707245afee0d6f567aa2987845a0f.r67.cf1.rackcdn.com/design/1375927648_jquery.tagedit.js"></script>
